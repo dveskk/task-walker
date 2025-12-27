@@ -1,0 +1,14 @@
+C:\Users\Khodo\OneDrive\Desktop\learning-programming\bin\Debug\net10.0\learning-programming.exe
+C:\Users\Khodo\OneDrive\Desktop\learning-programming\bin\Debug\net10.0\learning-programming.deps.json
+C:\Users\Khodo\OneDrive\Desktop\learning-programming\bin\Debug\net10.0\learning-programming.runtimeconfig.json
+C:\Users\Khodo\OneDrive\Desktop\learning-programming\bin\Debug\net10.0\learning-programming.dll
+C:\Users\Khodo\OneDrive\Desktop\learning-programming\bin\Debug\net10.0\learning-programming.pdb
+C:\Users\Khodo\OneDrive\Desktop\learning-programming\obj\Debug\net10.0\learning-programming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khodo\OneDrive\Desktop\learning-programming\obj\Debug\net10.0\learning-programming.AssemblyInfoInputs.cache
+C:\Users\Khodo\OneDrive\Desktop\learning-programming\obj\Debug\net10.0\learning-programming.AssemblyInfo.cs
+C:\Users\Khodo\OneDrive\Desktop\learning-programming\obj\Debug\net10.0\learning-programming.csproj.CoreCompileInputs.cache
+C:\Users\Khodo\OneDrive\Desktop\learning-programming\obj\Debug\net10.0\learning-programming.dll
+C:\Users\Khodo\OneDrive\Desktop\learning-programming\obj\Debug\net10.0\refint\learning-programming.dll
+C:\Users\Khodo\OneDrive\Desktop\learning-programming\obj\Debug\net10.0\learning-programming.pdb
+C:\Users\Khodo\OneDrive\Desktop\learning-programming\obj\Debug\net10.0\learning-programming.genruntimeconfig.cache
+C:\Users\Khodo\OneDrive\Desktop\learning-programming\obj\Debug\net10.0\ref\learning-programming.dll
